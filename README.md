@@ -2,12 +2,12 @@
 
 I was bored, and created this abomination.
 
-##Commands##
+### Commands
 
-/uwu <text> | Sends messages to guild chat
+/uwu [TEXT] | Sends messages to guild chat
   
-/uwuParty <text> | Sends messages to guild chat
+/uwuParty [TEXT] | Sends messages to guild chat
   
-/uwuRaid <text> | Sends messages to guild chat
+/uwuRaid [TEXT] | Sends messages to guild chat
   
-/uwuInstance <text> | Sends messages to Instance chat
+/uwuInstance [TEXT] | Sends messages to Instance chat
